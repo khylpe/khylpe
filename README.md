@@ -13,7 +13,7 @@ I am a dedicated full-stack web developer, fervently engaged in deepening my tec
 
 <p>&nbsp;</p>
 
-In pursuit of expanding my academic foundation in Computer Science, I am actively studying at **[CESi](https://www.cesi.fr/)**, and concurrently, I am gaining practical experience by working at the French **[Air and Space School](https://www.ecole-air-espace.fr/)**.
+In pursuit of expanding my academic foundation in Computer Science, I am actively studying at **[CESi](https://www.cesi.fr/)**, and concurrently, I am gaining practical experience by working at the **[French Air and Space Force Academy](https://www.ecole-air-espace.fr/)**.
 </span>
 
 <p>&nbsp;</p>
